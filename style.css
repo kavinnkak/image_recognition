@@ -1,0 +1,26 @@
+body
+{
+    background-color: pink;
+    color: white;
+}
+
+b
+{
+    color: yellow;
+}
+#camera
+{
+    border: 6px black dashed;
+    width: 400px;
+    height: 400px;
+
+    
+}
+
+.heading
+{
+height: 50px;
+width: 80%;
+font-size: 30px;
+
+}
